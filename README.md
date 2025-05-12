@@ -140,3 +140,11 @@ Save the script as `urdu_word_image_generator.py` and simply run:
 ```bash
 python urdu_word_image_generator.py
 ```
+
+# Dataset Screenshots
+
+Here are the screenshots of the dataset:
+
+![Dataset Screenshot 1](screenshots/dataset_screenshot1.png)
+![Dataset Screenshot 2](screenshots/dataset_screenshot2.png)
+
