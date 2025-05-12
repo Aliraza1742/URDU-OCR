@@ -146,5 +146,7 @@ python urdu_word_image_generator.py
 Here are the screenshots of the dataset:
 
 ![Dataset Screenshot 1](png_images/document_page-0007.jpg)
-![Dataset Screenshot 2](screenshots/dataset_screenshot2.png)
+
+
+![Dataset Screenshot 2](png_images/document_page-0025.jpg)
 
